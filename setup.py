@@ -8,6 +8,7 @@ setup(name='import_anywhere',
       url='https://www.python.org/sigs/distutils-sig/',
       packages=['import_anywhere'],
       url= 'https://github.com/ec2604/import_anywhere',
+      download_url='https://github.com/ec2604/import_anywhere/archive/1.0.tar.gz',
       keywords=['relative_imort'],
       python_requires = '>=3',
      )
