@@ -18,4 +18,3 @@ And MY_SCRIPT contains the line "import C.USEFUL_SCRIPT.PY", this won't work if 
 from a different directory.
 
 import_anywhere solves this problem if C (or PACKAGE_A) are located in the IMPORT_ANYWHERE_DIRS environment variable.
-
